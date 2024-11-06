@@ -1,0 +1,10 @@
+{"level":"info","message":"Server running on port 5001","timestamp":"2024-11-06T00:02:47.386Z"}
+{"level":"warn","message":"RLS check failed for table employees","timestamp":"2024-11-06T00:02:50.657Z"}
+{"level":"warn","message":"PITR check failed for project project 2","timestamp":"2024-11-06T00:02:58.624Z"}
+{"level":"warn","message":"PITR check failed for project delve challenge","timestamp":"2024-11-06T00:02:58.648Z"}
+{"level":"info","message":"Server running on port 5001","timestamp":"2024-11-06T00:05:07.672Z"}
+{"level":"warn","message":"PITR check failed for project project 2. Enabled PITR for project 2 to resolve failed check.","timestamp":"2024-11-06T00:05:12.069Z"}
+{"level":"warn","message":"PITR check failed for project delve challenge. Enabled PITR for delve challenge to resolve failed check.","timestamp":"2024-11-06T00:05:12.166Z"}
+{"level":"warn","message":"RLS check failed for table employees Enable RLS for employees to resolve failed check","timestamp":"2024-11-06T00:05:25.070Z"}
+{"level":"warn","message":"MFA check failed for user 94808d4a-e28b-496c-8cac-049318d12438. Enable MFA for user to resolve failed check","timestamp":"2024-11-06T00:05:50.814Z"}
+{"level":"warn","message":"MFA check failed for user 50b5dd17-deaf-4d44-9e9d-e949e471e680. Enable MFA for user to resolve failed check","timestamp":"2024-11-06T00:05:50.829Z"}
